@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "demo105.pbl" "";
+@end;
+@begin Objects
+ "w_main.srw" "demo105.pbl";
+ "demo105.sra" "demo105.pbl";
+@end;
