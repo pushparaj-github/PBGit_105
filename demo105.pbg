@@ -5,4 +5,5 @@ Save Format v3.0(19990112)
 @begin Objects
  "w_main.srw" "demo105.pbl";
  "demo105.sra" "demo105.pbl";
+ "w_child.srw" "demo105.pbl";
 @end;
